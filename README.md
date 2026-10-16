@@ -17,10 +17,19 @@
 
 ![我的匿名提问箱项目封面](https://raw.githubusercontent.com/sijian0202/home/main/portfolio/cover.webp)
 
+## 代表项目：北京宫灯 LoRA 训练与设计转译
+
+从非遗资料整理出发，开展四轮结构与两轮图案 LoRA 实验，记录训练数据、caption、模型版本、生成对照与问题迭代。
+
+- **结构方向**：围绕仰角偏置、三维部件表达与视角响应调整样本和标注。
+- **图案方向**：分析纹样与边框、器形耦合，继续收紧图案裁切与 caption 边界。
+- **资料与归档**：整理来源、候选筛选、元素映射和实验记录，探索照明书立产品概念。
+
+[查看项目](https://github.com/sijian0202/palace-lantern-aigc) · [LoRA 工作日志](https://github.com/sijian0202/palace-lantern-aigc/blob/main/WORK_LOG.md) · [六轮实验](https://github.com/sijian0202/palace-lantern-aigc/blob/main/EXPERIMENTS.md)
+
 ## 正在探索
 
 - AI 辅助设计开发：把设计方案推进到可运行体验，并检查交互规则与界面状态。
-- 非遗元素与生成式设计：以北京宫灯为对象，进行元素提取、产品转译与 Stable Diffusion / ComfyUI / LoRA 实验，项目进行中。
 - 工业设计：产品造型、三维建模、渲染与场景表达。
 
 ## 工具与实践
