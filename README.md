@@ -27,6 +27,16 @@
 
 [查看项目](https://github.com/sijian0202/palace-lantern-aigc) · [LoRA 工作日志](https://github.com/sijian0202/palace-lantern-aigc/blob/main/WORK_LOG.md) · [六轮实验](https://github.com/sijian0202/palace-lantern-aigc/blob/main/EXPERIMENTS.md)
 
+## 研究复盘：界面视觉搜索与眼动实验
+
+参与课程团队眼动实验，独立完成个人分析与报告；2026年重新整理16个场景、13人的历史记录，恢复任务与目标区域，核对重复测量结构，并修订部分历史结论。
+
+- **数据整理**：完成208条被试与场景汇总，核对目标区域与软件导出的一致性。
+- **分析复核**：开展配对探索与多重检验校正，保留历史结果无法直接复现的部分及解释限制。
+- **研究反思**：讨论任务正确性、材料控制与指标解释；公开材料仅含汇总、方法、代码与复盘报告。
+
+[查看项目](https://github.com/sijian0202/interface-eye-tracking-review) · [完整研究复盘](https://github.com/sijian0202/interface-eye-tracking-review/blob/main/report/REPORT.md) · [复算工作日志](https://github.com/sijian0202/interface-eye-tracking-review/blob/main/WORK_LOG.md)
+
 ## 正在探索
 
 - AI 辅助设计开发：把设计方案推进到可运行体验，并检查交互规则与界面状态。
