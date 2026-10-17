@@ -13,7 +13,9 @@
 - **实现实践**：借助 Codex、Claude 将设计需求转化为可交互前端；通过 Mock 数据组织用户、问答、回复与关注关系。
 - **协作边界**：参与从设计到上线的推进与维护；正式 App 由团队协作完成，在线演示使用独立的本地 Mock 数据。
 
-[查看作品集](https://sijian0202.github.io/home/) · [体验交互演示](https://sijian0202.github.io/home/demo.html) · [查看展示仓库](https://github.com/sijian0202/home)
+[查看七页作品集与交互 Demo](https://sijian0202.github.io/home/) · [查看展示仓库](https://github.com/sijian0202/home)
+
+作品集包含封面、交互演示、使用流程、产品海报、高保真模型、使用场景与视觉展示；交互 Demo 位于第 2 页。
 
 ![我的匿名提问箱项目封面](https://raw.githubusercontent.com/sijian0202/home/main/portfolio/cover.webp)
 
