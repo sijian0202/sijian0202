@@ -27,6 +27,8 @@
 - **图案方向**：分析纹样与边框、器形耦合，继续收紧图案裁切与 caption 边界。
 - **资料与归档**：整理来源、候选筛选、元素映射和实验记录，探索照明书立产品概念。
 
+- **衍生实验品**：[灯下 · 宫灯文献助手](https://github.com/sijian0202/palace-lantern-aigc/tree/main/experiments/literature-assistant)，将38条文献整理转为可交互检索工具，支持查看依据；当前为检索实验版。[在线体验](https://sijian0202.github.io/palace-lantern-aigc/experiments/literature-assistant/app/)
+
 [查看项目](https://github.com/sijian0202/palace-lantern-aigc) · [LoRA 工作日志](https://github.com/sijian0202/palace-lantern-aigc/blob/main/WORK_LOG.md) · [六轮实验](https://github.com/sijian0202/palace-lantern-aigc/blob/main/EXPERIMENTS.md)
 
 ## 研究复盘：界面视觉搜索与眼动实验
